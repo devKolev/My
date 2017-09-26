@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="edit_text_hint">Название города</string>
+    <string name="api_key">e84af55b07c6a2c27445377e6de62c7b</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/weather?q=</string>
+    <string name="bad_url">Неправильный URL</string>
+    <string name="read_error">Ошибка чтения</string>
+    <string name="connection_error">Ошибка соединения</string>
+    <string name="btnAddNewCity">Добавить Новый Город</string>
+    <string name="errorGetData">Нет данных</string>
+    <string name="button_add_new_city_in_list">Добавить город</string>
+    <string name="tv_listCity_text">Список добавляемых городов</string>
+    <string name="btnFinishAddCities">Готово</string>
+    <string name="contec_menu_delete_city">Удалить выбранный город</string>
+    <string name="alert_dialog_title">Внимание</string>
+    <string name="alert_dialog_message">Список добавляемых городов пуст. Все равно выйти?</string>
+    <string name="alert_dialog_positive_button_name">Да</string>
+    <string name="alert_dialog_negative_button_name">Нет</string>
+    <string name="list_view_item_toast">Выбран город: </string>
+    <string name="context_menu_item_delete_toast">Вы удалили город: </string>
+    <string name="isOnline_fasle_text">Отсутствует  соединения с Интернетом!</string>
+    <string name="swype_refresh_positive_message">Погода обновлена</string>
+    <string name="swype_refresh_negative_message">Обновлять нечего. Добавьте города</string>
+    <string name="toast_if_listview_isempty_oncreate">Список был пуст. Установлен город по умолчанию</string>
+    <string name="toast_swype_refresh_internet_none">Интернет соединение отсутствует. Обновление невозможно</string>
+</resources>
